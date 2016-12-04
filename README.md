@@ -1,1 +1,1 @@
-# query-wiki
+https://query-wikipedia.herokuapp.com/
